@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_Lessons\\CSharp_TCPClientServerWPF\\TCPServerWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{548028E5-987C-4C01-A94F-224D8665EFB4}|..\\TCPClientWPF\\TCPClientWPF.csproj|c:\\c#_lessons\\csharp_tcpclientserverwpf\\tcpclientwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3B8BC2-24FF-46CB-900D-5F0E71E7C3BF}|TCPServerWPF.csproj|c:\\c#_lessons\\csharp_tcpclientserverwpf\\tcpserverwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C3B8BC2-24FF-46CB-900D-5F0E71E7C3BF}|TCPServerWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C#_Lessons\\TCPClientWPF\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3B8BC2-24FF-46CB-900D-5F0E71E7C3BF}|TCPServerWPF.csproj|C:\\C#_Lessons\\CSharp_TCPClientServerWPF\\TCPServerWPF\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3B8BC2-24FF-46CB-900D-5F0E71E7C3BF}|TCPServerWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e62ce6a0-b439-11d0-a79d-00a0c9110051}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\C#_Lessons\\CSharp_TCPClientServerWPF\\TCPClientWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\TCPClientWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\C#_Lessons\\CSharp_TCPClientServerWPF\\TCPClientWPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\TCPClientWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-09T05:21:06.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\C#_Lessons\\CSharp_TCPClientServerWPF\\TCPServerWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\C#_Lessons\\CSharp_TCPClientServerWPF\\TCPServerWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-09T05:21:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\C#_Lessons\\TCPClientWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\TCPClientWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\C#_Lessons\\TCPClientWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\TCPClientWPF\\MainWindow.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:17:16.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\C#_Lessons\\CSharp_TCPClientServerWPF\\TCPServerWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\C#_Lessons\\CSharp_TCPClientServerWPF\\TCPServerWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAzwD0BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:15:37.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

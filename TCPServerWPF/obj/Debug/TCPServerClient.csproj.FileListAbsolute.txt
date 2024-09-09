@@ -1,0 +1,15 @@
+C:\C#_Lessons\TCPServerClient\bin\Debug\TCPServerClient.exe.config
+C:\C#_Lessons\TCPServerClient\bin\Debug\TCPServerClient.exe
+C:\C#_Lessons\TCPServerClient\bin\Debug\TCPServerClient.pdb
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient.csproj.AssemblyReference.cache
+C:\C#_Lessons\TCPServerClient\obj\Debug\MainWindow.g.cs
+C:\C#_Lessons\TCPServerClient\obj\Debug\App.g.cs
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient_MarkupCompile.cache
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient_MarkupCompile.lref
+C:\C#_Lessons\TCPServerClient\obj\Debug\MainWindow.baml
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient.g.resources
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient.Properties.Resources.resources
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient.csproj.GenerateResource.cache
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient.csproj.CoreCompileInputs.cache
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient.exe
+C:\C#_Lessons\TCPServerClient\obj\Debug\TCPServerClient.pdb
